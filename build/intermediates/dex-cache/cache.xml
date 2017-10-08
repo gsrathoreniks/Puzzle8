@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gajendrasinghrathore/.android/build-cache/ea3de56f98f3afa33ea7b76061451b670a021e9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/gajendrasinghrathore/Desktop/Puzzle8/app/build/intermediates/pre-dexed/debug/classes_712ade9f8249345870f67327574604a4156fb221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gajendrasinghrathore/.android/build-cache/1982244a5f2a86b519ee154d230f90e2e2cd7e29/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/gajendrasinghrathore/Desktop/Puzzle8/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_d4d2e234d806064e312a315e1c7a28ffb1e5ef25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gajendrasinghrathore/.android/build-cache/1982244a5f2a86b519ee154d230f90e2e2cd7e29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/gajendrasinghrathore/Desktop/Puzzle8/app/build/intermediates/pre-dexed/debug/classes_73c6c06bc51bdb1bb4751d9ffa821c569c805e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gajendrasinghrathore/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/gajendrasinghrathore/Desktop/Puzzle8/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_8f40842a6009f7acb8aa2d1708fdae23f11c83ac.jar" />
+    </item>
+
+</items>
