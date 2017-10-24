@@ -9,9 +9,9 @@ Built as part of [Google CS](https://www.cs-first.com/en/home) with Android cour
 
 Clone the project from GitHub:
 ```
-$ git clone https://github.com/raj-subhankar/Puzzle8.git
+$ git clone https://github.com/gsrathoreniks/Puzzle8.git
 ```
-or download the .zip [here](https://github.com/raj-subhankar/Puzzle8/archive/master.zip)
+or download the .zip [here](https://github.com/gsrathoreniks/Puzzle8/archive/master.zip)
 
 ### Main Features :
 
